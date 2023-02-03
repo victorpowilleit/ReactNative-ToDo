@@ -29,7 +29,7 @@ ABOUT
 LOG
 </a>
 <br/><br/>
-<img width="100%" alt="Captura de Tela 2023-01-30 às 23 03 31" src="https://user-images.githubusercontent.com/40838411/215649929-968081eb-bd04-444e-8667-1ec3ad20e54f.png" style="max-width: 100%;">
+<img width="100%" src="https://user-images.githubusercontent.com/40838411/216717561-e862b0b6-2eb8-4baf-b936-58cf52058dd1.png" style="max-width: 100%;">
 
 <p align="center">
 <a href="https://github.com/victorpowilleit/ignite-challenge-ToDo">
